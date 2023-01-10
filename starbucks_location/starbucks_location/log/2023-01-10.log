@@ -1,0 +1,29 @@
+[2023-01-10 16:04:57][MainThread:10436][task_id:__main__][logConfig.py:113][INFO]: Logger configuring finished.
+[2023-01-10 16:04:58][MainThread:10436][task_id:__main__][app.py:28][DEBUG]:           Longitude      Latitude
+count  25599.000000  25599.000000
+mean     -27.872234     34.793016
+std       96.844046     13.342332
+min     -159.460000    -46.410000
+25%     -104.665000     31.240000
+50%      -79.350000     36.750000
+75%      100.630000     41.570000
+max      176.920000     64.850000
+[2023-01-10 16:04:58][MainThread:10436][task_id:__main__][app.py:29][INFO]: CSV reading finished.
+[2023-01-10 16:04:58][MainThread:10436][task_id:__main__][app.py:43][DEBUG]: ['Starbucks' 'Teavana' 'Evolution Fresh' 'Coffee House Holdings']
+[2023-01-10 16:06:29][MainThread:12656][task_id:__main__][logConfig.py:113][INFO]: Logger configuring finished.
+[2023-01-10 16:06:29][MainThread:12656][task_id:__main__][app.py:28][DEBUG]:           Longitude      Latitude
+count  25599.000000  25599.000000
+mean     -27.872234     34.793016
+std       96.844046     13.342332
+min     -159.460000    -46.410000
+25%     -104.665000     31.240000
+50%      -79.350000     36.750000
+75%      100.630000     41.570000
+max      176.920000     64.850000
+[2023-01-10 16:06:29][MainThread:12656][task_id:__main__][app.py:29][INFO]: CSV reading finished.
+[2023-01-10 16:06:29][MainThread:12656][task_id:__main__][app.py:43][DEBUG]: ['Starbucks' 'Teavana' 'Evolution Fresh' 'Coffee House Holdings']
+[2023-01-10 16:06:29][MainThread:12656][task_id:__main__][app.py:45][DEBUG]: Empty DataFrame
+Columns: [Brand, Store Number, Store Name, Ownership Type, Street Address, City, State/Province, Country, Postcode, Phone Number, Timezone, Longitude, Latitude]
+Index: []
+[2023-01-10 16:08:33][MainThread:17400][task_id:__main__][logConfig.py:113][INFO]: Logger configuring finished.
+[2023-01-10 16:08:33][MainThread:17400][task_id:__main__][app.py:28][INFO]: CSV reading finished.
